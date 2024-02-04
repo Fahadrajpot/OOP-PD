@@ -1,0 +1,7 @@
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\bin\Debug\Shiritori.exe.config
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\bin\Debug\Shiritori.exe
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\bin\Debug\Shiritori.pdb
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.csproj.AssemblyReference.cache
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.exe
+D:\Semester 2\OOP PD\Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.pdb
